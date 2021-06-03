@@ -1,0 +1,4 @@
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/main/java/com/awesomeproject/integration/config/ConsumerConfig.java
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/main/java/com/awesomeproject/integration/CommonRestConsumer.java
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/main/java/com/awesomeproject/integration/weather/WeatherForecastConsumer.java
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/main/java/com/awesomeproject/integration/location/IPLocationConsumer.java

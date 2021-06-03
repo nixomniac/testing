@@ -1,0 +1,21 @@
+app:
+  basePath: /
+  logLevel: INFO
+  hostname: localhost
+  serviceName: api/weather/ip
+
+server:
+  servlet:
+    context-path: ${app.basePath}
+
+logging:
+  level:
+    ROOT: ${app.logLevel}
+
+spring:
+  application:
+    name: weather-service
+  profiles:
+    active: srv
+
+

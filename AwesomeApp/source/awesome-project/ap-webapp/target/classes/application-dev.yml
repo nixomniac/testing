@@ -1,0 +1,27 @@
+app:
+  port: 8080
+  db:
+    username: weather
+    password: weather123
+    schemaMgmtType: validate
+
+server:
+  port: ${app.port}
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/weather
+    username: ${app.db.username}
+    password: ${app.db.password}
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: ${app.db.schemaMgmtType}
+
+rest-api:
+  weather-auth:
+    key: 36bd49f3fea41a405ffe314c6ed37c55
+  base-url:
+    ip-location: https://ipapi.co
+    weather-forecast: https://api.openweathermap.org
+

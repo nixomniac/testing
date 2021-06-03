@@ -1,0 +1,7 @@
+com/awesomeproject/service/aspect/WeatherResultStorageAspect.class
+com/awesomeproject/service/exception/WeatherServiceException.class
+com/awesomeproject/service/converter/storage/WeatherEntityMapper.class
+com/awesomeproject/service/converter/SelfRegisteringConverter.class
+com/awesomeproject/service/converter/WeatherResponseConverter.class
+com/awesomeproject/service/WeatherService.class
+com/awesomeproject/service/converter/CityDataResponseConverter.class

@@ -1,0 +1,5 @@
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/test/java/com/awesomeproject/service/WeatherServiceTest.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/test/java/com/awesomeproject/service/helper/TestHelper.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/test/java/com/awesomeproject/service/converter/WeatherResponseConverterTest.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/test/java/com/awesomeproject/service/converter/storage/WeatherEntityMapperTest.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/test/java/com/awesomeproject/service/converter/CityDataResponseConverterTest.java

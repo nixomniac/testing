@@ -1,0 +1,14 @@
+com/awesomeproject/model/weather/CityWeatherItem$Builder.class
+com/awesomeproject/model/weather/response/WeatherItemResponse$Builder.class
+com/awesomeproject/model/location/IPLocationItem.class
+com/awesomeproject/model/weather/response/CityDataItemResponse$Builder.class
+com/awesomeproject/model/weather/CityItem$Builder.class
+com/awesomeproject/model/weather/CityWeatherMainItem$Builder.class
+com/awesomeproject/model/weather/CityItem.class
+com/awesomeproject/model/location/IPLocationItem$Builder.class
+com/awesomeproject/model/weather/CityWeatherItem.class
+com/awesomeproject/model/weather/response/CityDataItemResponse.class
+com/awesomeproject/model/weather/CityWeatherMainItem.class
+com/awesomeproject/model/weather/WeatherCurrentItem.class
+com/awesomeproject/model/weather/response/WeatherItemResponse.class
+com/awesomeproject/model/weather/WeatherCurrentItem$Builder.class

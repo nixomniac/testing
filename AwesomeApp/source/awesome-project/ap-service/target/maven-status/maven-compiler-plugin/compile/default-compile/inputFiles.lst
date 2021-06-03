@@ -1,0 +1,7 @@
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/exception/WeatherServiceException.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/WeatherService.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/aspect/WeatherResultStorageAspect.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/converter/storage/WeatherEntityMapper.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/converter/WeatherResponseConverter.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/converter/SelfRegisteringConverter.java
+/home/vagrant/IdeaProjects/awesome-project/ap-service/src/main/java/com/awesomeproject/service/converter/CityDataResponseConverter.java

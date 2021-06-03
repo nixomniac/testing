@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/GridCellEditorTextField">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.4.2/micrometer-core-1.4.2.jar!/io/micrometer/core/instrument/Gauge.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.4.2/micrometer-core-1.4.2.jar!/io/micrometer/core/instrument/MeterRegistry.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/oftpregistry/pension-decision-registry/pension-decision-registry-model/1.5.0/pension-decision-registry-model-1.5.0.jar!/no/klp/pensiondecisionregistry/pensiondecisionregistry/model/decision/DecisionItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/oftpregistry/pension-decision-registry/pension-decision-registry-model/1.5.0/pension-decision-registry-model-1.5.0.jar!/no/klp/pensiondecisionregistry/pensiondecisionregistry/model/decision/PensionWithdrawalPlanItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/oftpregistry/pension-decision-registry/pension-decision-registry-model/1.6.7/pension-decision-registry-model-1.6.7.jar!/no/klp/pensiondecisionregistry/pensiondecisionregistry/model/PensionDecisionCreateRequest.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/oftpregistry/pension-decision-registry/pension-decision-registry-model/1.6.7/pension-decision-registry-model-1.6.7.jar!/no/klp/pensiondecisionregistry/pensiondecisionregistry/model/decision/DecisionItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/oftpregistry/pension-decision-registry/pension-decision-registry-model/1.7.0-SNAPSHOT/pension-decision-registry-model-1.7.0-20210527.134414-74.jar!/no/klp/pensiondecisionregistry/pensiondecisionregistry/model/nationalinsurance/NationalInsuranceItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/oftpregistry/pension-decision-registry/pension-decision-registry-model/1.7.0-SNAPSHOT/pension-decision-registry-model-1.7.0-20210527.134414-74.jar!/no/klp/pensiondecisionregistry/pensiondecisionregistry/model/period/PensionPeriodItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/reimbursementexchange/exchange/reimbursementexchange-exchange-model/1.7.0-SNAPSHOT/reimbursementexchange-exchange-model-1.7.0-20210510.101438-66.jar!/no/klp/reimbursementexchange/exchange/model/reimbursement/ReimbursementDecisionDTO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/retirementpensioncasework/casework/retirementpensioncasework-casework-model/1.7.0-SNAPSHOT/retirementpensioncasework-casework-model-1.7.0-20210526.163654-32.jar!/no/klp/retirementpensioncasework/casework/model/withdrawalplan/part/CaseworkPensionBasisItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/retirementpensioncasework/casework/retirementpensioncasework-casework-model/1.7.0-SNAPSHOT/retirementpensioncasework-casework-model-1.7.0-20210526.163654-32.jar!/no/klp/retirementpensioncasework/casework/model/withdrawalplan/part/CaseworkPensionCalculationFactsPartialResultsItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/retirementpensioncasework/casework/retirementpensioncasework-casework-model/1.7.0-SNAPSHOT/retirementpensioncasework-casework-model-1.7.0-20210526.163654-32.jar!/no/klp/retirementpensioncasework/casework/model/withdrawalplan/part/CaseworkReductionFactorItem.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/retirementpensioncasework/casework/retirementpensioncasework-casework-model/1.7.0-SNAPSHOT/retirementpensioncasework-casework-model-1.7.0-20210526.163654-32.jar!/no/klp/retirementpensioncasework/casework/model/withdrawalplan/part/CaseworkSamordningsfradragChapt19Item.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/commonrules/rules-commonrules-domain/1.4.0-SNAPSHOT/rules-commonrules-domain-1.4.0-20210421.130740-31.jar!/no/klp/rules/commonrules/domain/Period.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/commonrules/rules-commonrules-rules/1.4.0-SNAPSHOT/rules-commonrules-rules-1.4.0-20210421.130753-31.jar!/no/klp/rules/commonrules/rules/deduction/calculation/CalculateDeductionsForTilleggspensjonCommonRule.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/retirementpension-calculation/rules-retirementpension-calculation-common-type/1.7.0-SNAPSHOT/rules-retirementpension-calculation-common-type-1.7.0-20210528.114544-139.jar!/no/klp/rules/retirementpensioncalculation/commontype/enums/OverridableField.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/retirementpension-calculation/rules-retirementpension-calculation-model/1.7.0-SNAPSHOT/rules-retirementpension-calculation-model-1.7.0-20210528.114620-137.jar!/no/klp/rules/retirementpensioncalculation/model/request/ClaimDataDTO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/retirementpension-calculation/rules-retirementpension-calculation-model/1.7.0-SNAPSHOT/rules-retirementpension-calculation-model-1.7.0-20210528.114620-137.jar!/no/klp/rules/retirementpensioncalculation/model/request/ClaimPartDTO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/retirementpension-calculation/rules-retirementpension-calculation-model/1.7.0-SNAPSHOT/rules-retirementpension-calculation-model-1.7.0-20210528.114620-137.jar!/no/klp/rules/retirementpensioncalculation/model/request/RetirementPensionCalculationRequestDTO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/retirementpension-calculation/rules-retirementpension-calculation-model/1.7.0-SNAPSHOT/rules-retirementpension-calculation-model-1.7.0-20210601.100759-140.jar!/no/klp/rules/retirementpensioncalculation/model/request/MemberCalculationDTO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/no/klp/rules/retirementpension-calculation/rules-retirementpension-calculation-model/1.7.0-SNAPSHOT/rules-retirementpension-calculation-model-1.7.0-20210601.100759-140.jar!/no/klp/rules/retirementpensioncalculation/model/request/RetirementPensionCalculationRequestDTO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar!/org/junit/jupiter/api/extension/ExtendWith.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.5.0/spring-boot-autoconfigure-2.5.0.jar!/org/springframework/boot/autoconfigure/domain/EntityScan.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.2.10.RELEASE/spring-data-commons-2.2.10.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.7/spring-web-5.3.7.jar!/org/springframework/web/client/HttpClientErrorException.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/dev/api/ncm/pensioncaseworkpresentationservice/casework-pension-withdrawal-plans/1/pension-periods/2/pension-parts.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/dev/api/ncm/pensioncaseworkpresentationservice/casework-pension-withdrawal-plans/1/pension-periods/2/pension-period.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/dev/api/ncm/pensioncaseworkpresentationservice/casework-pension-withdrawal-plans/pension-parts/pension-parts-patch.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/dev/api/ncm/pensioncaseworkpresentationservice/caseworks/1/actionpoints.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/dev/paths.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/src/components/calculation/casework-chapter-19-and-20/__test__/CaseworkDeductionsChapt19SubPage.test.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/src/components/calculation/casework/_test_/CaseworkDeductionChapt19.test.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/src/components/calculation/casework/_test_/__snapshots__/CaseworkDeductionChapt19.test.tsx.snap">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/src/components/calculation/casework/config/CaseworkDeductionsCommonRowConfig.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/src/components/modals/case-overview-modal/PaymentsOverview.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/casemanagement-pension-casework-portal/src/constants/texts/Texts.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/preinsurance-preinsurance/preinsurance-service/src/main/java/no/klp/preinsurance/preinsurance/service/PreInsuranceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/preinsurance-preinsurance/preinsurance-service/src/test/java/no/klp/preinsurance/preinsurance/service/pension/PensionPeriodsOrchestrationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-domain/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-event-listener/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-integration/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-repository/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-repository/src/main/java/no/klp/reimbursementexchange/gregulation/repository/ProcessingStatusRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-repository/src/main/resources/db/migration/V1_0_0__create_processing_status_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-service/src/main/java/no/klp/reimbursementexchange/gregulation/service/EventProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-service/src/main/java/no/klp/reimbursementexchange/gregulation/service/MetricService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-service/src/main/java/no/klp/reimbursementexchange/gregulation/service/OrchestrationHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-webapp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-webapp/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-webapp/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-g-regulation/reimbursementexchange-g-regulation-webapp/src/main/resources/logback-spring.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-reimbursement-exchange/exchange-webapp/src/main/java/no/klp/reimbursementexchange/exchange/converter/response/PeriodResponseConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-reimbursement-exchange/exchange-webapp/src/main/java/no/klp/reimbursementexchange/exchange/repository/config/SelfRegisteringConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/reimbursementexchange-reimbursement-exchange/exchange-webapp/src/test/java/no/klp/reimbursementexchange/exchange/converter/response/WithdrawalPlanResponseConverterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/retirementpensioncasework-workflow/workflow-integration/src/main/java/no/klp/retirementpensioncasework/workflow/integration/client/retirementpensioncasework/FactbaseDataConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/retirementpensioncasework-workflow/workflow-integration/src/main/java/no/klp/retirementpensioncasework/workflow/integration/client/retirementpensioncasework/RetirementpensionCaseworkConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/retirementpensioncasework-workflow/workflow-service/src/main/java/no/klp/retirementpensioncasework/workflow/service/orchestration/finalizebehandling/FinalizeBehandlingOrchestrationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/retirementpensioncasework-workflow/workflow-service/src/main/java/no/klp/retirementpensioncasework/workflow/service/rules/CaseworkerInputService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/retirementpensioncasework-workflow/workflow-service/src/main/java/no/klp/retirementpensioncasework/workflow/service/workflowprocesses/preparebehandling/collectfacts/CollectKOPSService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/rules-retirementpension-calculation/calculation-domain/src/main/java/no/klp/rules/retirementpensioncalculation/domain/RetirementPensionCalculationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/rules-retirementpension-calculation/calculation-domain/src/main/java/no/klp/rules/retirementpensioncalculation/domain/facts/Member.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/rules-retirementpension-calculation/calculation-rules/src/main/java/no/klp/rules/retirementpensioncalculation/rules/addition/calculation/CalculateRetirementPensionNAVRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/rules-retirementpension-calculation/calculation-rules/src/main/java/no/klp/rules/retirementpensioncalculation/rules/deduction/calculation/CalculateDeductionsForTilleggspensjonWrapRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/rules-retirementpension-calculation/calculation-webapp/src/main/java/no/klp/rules/retirementpensioncalculation/converter/request/MemberCalculationRequestConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KLP_Project/testingtest/src/main/java/TestSvc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-domain/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-domain/src/main/java/com/awesomeproject/domain/historic/WeatherResultEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/CommonRestConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/config/ConsumerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/CommonRestConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/config/ConsumerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/config/TestConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/location/IPLocationConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/model/location/IPLocationConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/model/weather/WeatherForecastConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/integration/weather/WeatherForecastConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/location/IPLocationConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/model/location/IPLocationConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/main/java/com/awesomeproject/weather/WeatherForecastConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/test/java/com/awesomeproject/integration/TestConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/test/java/com/awesomeproject/integration/WebClientTestConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/test/java/com/awesomeproject/integration/WebClientTestUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/test/java/com/awesomeproject/integration/location/IPLocationConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-integration/src/test/java/com/awesomeproject/integration/weather/WeatherForecastConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/location/IPLocationItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/model/location/IPLocationItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/model/weather/CityItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/model/weather/CityWeatherItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/model/weather/CityWeatherMainItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/model/weather/WeatherCurrentItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/weather/CityItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/weather/CityWeatherItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/weather/CityWeatherMainItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/integration/weather/WeatherCurrentItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/location/IPLocationItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/location/IPLocationResponseItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/location/IPLocationItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/weather/CityItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/weather/CityWeatherItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/weather/CityWeatherMainItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/weather/WeatherCurrentItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/weather/response/CityDataItemResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/model/weather/response/WeatherItemResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/CityItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/CityMainWeatherItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/CityWeatherItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/CityWeatherMainItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/WeatherCityGeneralItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/WeatherCurrentItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-model/src/main/java/com/awesomeproject/weather/WeatherItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-repository/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-repository/src/main/java/com/awesomeproject/repository/RepositoryConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-repository/src/main/java/com/awesomeproject/repository/WeatherRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-repository/src/main/java/com/awesomeproject/repository/config/RepositoryConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-repository/src/main/resources/db.migration/V1_1_0__create_tables.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-repository/src/main/resources/db/migration/V1_1_0__create_tables.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/WeatherService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/config/ServiceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/WeatherService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/aspect/WeatherResultStorageAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/config/ServiceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/converter/CityDataResponseConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/converter/WeatherResponseConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/converter/storage/WeatherEntityConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/converter/storage/WeatherEntityMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/converter/storage/WeatherResponseConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/converter/storage/WeatherResponseEntityConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/exception/WeatherServiceException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/main/java/com/awesomeproject/service/huj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/test/java/com/awesomeproject/service/WeatherServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/test/java/com/awesomeproject/service/converter/CityDataResponseConverterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/test/java/com/awesomeproject/service/converter/WeatherResponseConverterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/test/java/com/awesomeproject/service/converter/storage/WeatherEntityMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-service/src/test/java/com/awesomeproject/service/helper/TestHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/UIServiceLayerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/UIServiceLayerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/WeatherProviderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/controller/UICaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/controller/WeatherProviderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/controller/WeatherProviderInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/ServiceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/config/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/config/RepositoryConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/config/ServiceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/config/exceptionhandler/CustomExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/config/exceptionhandler/ErrorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/controller/WeatherProviderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/controller/WeatherProviderInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/java/com/awesomeproject/webapp/controller/WeatherService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/main/resources/db/migration/V1_1_0__create_tables.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/java/com/awesomeproject/controller/AbstractIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/java/com/awesomeproject/controller/AbstractIntegrationTestOld.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/java/com/awesomeproject/controller/TestHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/java/com/awesomeproject/controller/WeatherProviderControllerIT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/java/com/awesomeproject/controller/WebClientTestConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/resources/application-test.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/resources/json/expectedSuccessResponse.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/resources/json/ipLocationResponse.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/resources/json/weatherForecastResponse.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ap-webapp/src/test/resources/sql/V1_1_0__create_tables.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="547b4c44-19ba-4593-948d-c54f685f92c5.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="547b4c44-19ba-4593-948d-c54f685f92c5/user/weather@&amp;at;localhost.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

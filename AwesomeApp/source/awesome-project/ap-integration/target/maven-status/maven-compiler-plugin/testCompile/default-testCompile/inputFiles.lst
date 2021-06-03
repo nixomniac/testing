@@ -1,0 +1,4 @@
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/test/java/com/awesomeproject/integration/WebClientTestConfig.java
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/test/java/com/awesomeproject/integration/WebClientTestUtils.java
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/test/java/com/awesomeproject/integration/weather/WeatherForecastConsumerTest.java
+/home/vagrant/IdeaProjects/awesome-project/ap-integration/src/test/java/com/awesomeproject/integration/location/IPLocationConsumerTest.java

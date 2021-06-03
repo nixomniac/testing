@@ -1,0 +1,7 @@
+com/awesomeproject/webapp/config/SwaggerConfig.class
+com/awesomeproject/webapp/config/AppConfig.class
+com/awesomeproject/webapp/controller/WeatherProviderInterface.class
+com/awesomeproject/webapp/config/exceptionhandler/ErrorResponse.class
+com/awesomeproject/webapp/controller/WeatherProviderController.class
+com/awesomeproject/webapp/config/exceptionhandler/CustomExceptionHandler.class
+com/awesomeproject/webapp/WeatherForecastingApplication.class

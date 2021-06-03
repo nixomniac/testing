@@ -1,0 +1,5 @@
+com/awesomeproject/service/converter/storage/WeatherEntityMapperTest.class
+com/awesomeproject/service/converter/WeatherResponseConverterTest.class
+com/awesomeproject/service/helper/TestHelper.class
+com/awesomeproject/service/converter/CityDataResponseConverterTest.class
+com/awesomeproject/service/WeatherServiceTest.class

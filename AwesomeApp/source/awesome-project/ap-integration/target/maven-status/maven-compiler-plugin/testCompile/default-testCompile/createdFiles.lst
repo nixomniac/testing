@@ -1,0 +1,4 @@
+com/awesomeproject/integration/weather/WeatherForecastConsumerTest.class
+com/awesomeproject/integration/WebClientTestConfig.class
+com/awesomeproject/integration/WebClientTestUtils.class
+com/awesomeproject/integration/location/IPLocationConsumerTest.class

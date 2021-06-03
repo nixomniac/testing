@@ -1,0 +1,7 @@
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/WeatherForecastingApplication.java
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/controller/WeatherProviderController.java
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/config/exceptionhandler/ErrorResponse.java
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/config/SwaggerConfig.java
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/config/AppConfig.java
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/config/exceptionhandler/CustomExceptionHandler.java
+/home/vagrant/IdeaProjects/awesome-project/ap-webapp/src/main/java/com/awesomeproject/webapp/controller/WeatherProviderInterface.java

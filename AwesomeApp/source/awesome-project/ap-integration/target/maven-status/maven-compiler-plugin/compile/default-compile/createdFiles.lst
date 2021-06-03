@@ -1,0 +1,4 @@
+com/awesomeproject/integration/config/ConsumerConfig.class
+com/awesomeproject/integration/CommonRestConsumer.class
+com/awesomeproject/integration/location/IPLocationConsumer.class
+com/awesomeproject/integration/weather/WeatherForecastConsumer.class

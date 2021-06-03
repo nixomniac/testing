@@ -1,0 +1,41 @@
+app:
+  basePath: /
+  port: 8080
+  hostname: localhost
+  serviceName: api/ncm/pensioncaseworkpresentationservice
+  db:
+    username: weather
+    password: weather123
+    schemaMgmtType: validate
+
+server:
+  port: ${app.port}
+  servlet:
+    context-path: ${app.basePath}
+
+MANAGEMENT_HTTP_PORT: 8080
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:casework;MODE=MSSQLServer;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+  flyway:
+    locations: classpath:sql
+  #  flyway:
+  #    url: jdbc:mysql://localhost:3306/weather
+  #    user: ${app.db.username}
+  #    password: ${app.db.password}
+  jpa:
+    hibernate:
+      ddl-auto: none
+
+
+rest-api:
+  weather-auth:
+    key: test777
+  base-url:
+    ip-location: http://localhost:7070
+    weather-forecast: http://localhost:7070
+

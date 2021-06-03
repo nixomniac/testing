@@ -1,0 +1,12 @@
+{
+  "nearCities": [
+    {
+      "name": "Riga",
+      "currentCondition": "Clear",
+      "description": "clear sky",
+      "temp": 293.15,
+      "pressure": 1026.0,
+      "humidity": 37.0
+    }
+  ]
+}
